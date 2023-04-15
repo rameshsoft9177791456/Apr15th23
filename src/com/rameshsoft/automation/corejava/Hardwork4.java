@@ -4,6 +4,7 @@ public class Hardwork4 {
 
 	public Hardwork4() {
 		System.out.println("hello");
+System.out.println("hello");
 	}
 	
 }
