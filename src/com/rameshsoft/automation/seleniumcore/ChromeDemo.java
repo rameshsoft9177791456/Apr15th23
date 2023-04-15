@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	System.out.println("hardwork");
 System.out.println("hardwork");
 System.out.println("hardwork");
+	System.out.println("HARDWORK = JOB");
 }
 }
